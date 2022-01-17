@@ -1,16 +1,41 @@
 ### Hi there 👋
+<h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**noob-coder111/noob-coder111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='giphy.gif' width='400'>
 
-Here are some ideas to get you started:
+Hi! Deepak Kumar here. I have a keen interest in full stack-app Development and also took part in many All India Hackathons. Self-motivated Developer. Passionate, hardworking coder with penchant for developing customized IOT real-life projects. Organized approach to meeting multiple, concurrent deadlines. Pulls from active knowledge of current technology landscape to promote best practices in various projects. .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything an everything.
+- 📫 How to reach me : (DO Follow the emoticon )✊
+- 📫 LinkedIn profile: [Deepak](https://www.linkedin.com/in/deepak-kumar-b23832206/)
+- 🎯 Myself in a web View: [My Portfolio]()
+- 🔔 Instagram:- [_kr_deepak__](https://www.instagram.com/_kr_deepak__/)
+
+
+### Programming Languages  :rocket:
+|<img src="html.png" width=60> | <img src="css.png" width=60> | <img src="js.png" width=60> | <img src="bootstrap.png" width=60> | <img src="json.png" width=60> | <img src="python.png" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+### Tools :fire:
+|<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hrucdojgwoypvzvtqq3e" width=60> |  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-stable.png?alt=media&token=88a7cb79-fe86-46ab-b691-05d210131a99" width=60> |
+|:---:|:---:|:---:|:---:|
+
+
+### Competitive Programming Profile :fire:
+#### Codeforces
+#### <a href="https://codeforces.com/profile/prakashaaditya18"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/prakashaaditya18&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="prakashaaditya18's profile on Codeforces" title="prakashaaditya18's profile on Codeforces"></a>
+
+#### Codechef
+#### <a href="https://codeforces.com/profile/dk7825"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/prakashaaditya&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="deepak's profile on CodeChef" title="deepak's profile on CodeChef"></a>
+
+#### Leetcode
+#### ![Aaditya Prakash LeetCode Stats]()
+
+
+### Github Stats  :rocket:
+![Deepak Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=Deepak188&&show_icons=true&title_color=ffffff&icon_color=e31bb4&text_color=daf7dc&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak188&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
+
+![](https://komarev.com/ghpvc/?username=Deepak188&color=blue)
